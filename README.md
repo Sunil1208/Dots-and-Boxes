@@ -11,10 +11,11 @@ An interactive two player dots and boxes game.
 
 ![Winner](/Resources/dot2.png)
 
-To change the number of grids, reinitialise the (const GRID_SIZE = 2;)\
-For eg.. if you want 5X5 grid, set const GRID_SIZE = 5;
-
 ## **Changing number of Grids**
+
+* To change the number of grids, reinitialise the (const GRID_SIZE = 2;)
+
+* For eg.. if you want 5X5 grid, set const GRID_SIZE = 5;
 
 >5x5 Grid
 
@@ -59,4 +60,4 @@ For eg.. if you want 5X5 grid, set const GRID_SIZE = 5;
 
 # Happy Coding :smiley:
 
-                                                                            Sunil Kumar
+                                                                             Sunil Kumar
