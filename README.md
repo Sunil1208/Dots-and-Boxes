@@ -25,38 +25,38 @@ An interactive two player dots and boxes game.
 
 * **Colour of the board**
 
->const boardColor = "lightgrey"
+>`const boardColor = "lightgrey"`
 
 * **Colour of the boarder of the board**
 
->const borderColor = "black"
+>`const borderColor = "black"`
 
 * **Player 2 colour when selected**
 
->const COLOR_COMP = "crimson"
+>`const COLOR_COMP = "crimson"`
 
 * **Player 1 colour when selected**
 
->const COLOR_PLAY = "royalblue"
+>`const COLOR_PLAY = "royalblue"`
 
 * **Player 1 highlight color**
 
->const COLOR_PLAY_LIT = "lightsteelblue"
+>`const COLOR_PLAY_LIT = "lightsteelblue"`
 
 * **Color of the DOT**
 
->const COLOR_DOT = "sienna";
+>`const COLOR_DOT = "sienna";`
 
 * **Color when match ties**
 
->const COLOR_TIE = "black"
+>`const COLOR_TIE = "black"`
 
 ## **Time to start new game**
 
 * To change after what interval the new game starts after the end of the game, modify this line of code.
 * Initially it is set to 2 seconds after the game ends.
 
->const DELAY_END = 2;
+>`const DELAY_END = 2;`
 
 # Happy Coding :smiley:
 
